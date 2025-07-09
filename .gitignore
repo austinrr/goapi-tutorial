@@ -1,0 +1,16 @@
+# Editors
+.idea/
+.vscode/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.dylib
+
+# Test binary
+*.test
